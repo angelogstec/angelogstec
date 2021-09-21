@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/angelogstec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelogstec&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelogstec&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" weight="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelogstec&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
