@@ -25,7 +25,6 @@ O projeto "Controle de Atrasos" é um aplicativo web desenvolvido em Spring Boot
 ## Estatísticas
 
  <img align="center" height="170em" src="http://readme-stats-delta-sepia.vercel.app/api?username=angelogstec&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="center" src="http://readme-stats-delta-sepia.vercel.app/api/top-langs/?username=angelogstec"/>
 
 ## Contato
 
