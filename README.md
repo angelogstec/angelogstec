@@ -4,13 +4,11 @@ Olá, meu nome é Ângelo Stec. Eu amo desafios e estou sempre buscando aprender
 
 ## Linguagens de programação
 
-Java <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java 
 
-Python <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> JavaScript 
 
-HTML/CSS <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-Lua <img height="20" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original-wordmark.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> HTML/CSS 
 
 ## Projetos
 
