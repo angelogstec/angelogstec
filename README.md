@@ -1,35 +1,44 @@
-# Sobre mim
+# Olá, eu sou Ângelo Gabriel Stec! 👋
 
-Olá, meu nome é Ângelo Stec. Eu amo desafios e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+### Desenvolvedor Back-End com um pé na Cibersegurança 🛡️
 
-## Linguagens de programação
+Sou um apaixonado por desenvolvimento back-end, com foco em **Java** e **Spring Boot**, e estou cada vez mais interessado em explorar o mundo da **cibersegurança**. Adoro resolver problemas complexos e criar soluções robustas e escaláveis. No momento, estou aprimorando minhas habilidades e buscando oportunidades para colaborar em projetos interessantes.
 
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> Java 
+---
 
-<img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> JavaScript 
+## 🛠️ Tecnologias e Ferramentas
 
-<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> HTML/CSS 
+Aqui estão algumas das tecnologias que eu uso e adoro trabalhar:
 
-## Projetos
+- **Linguagens**: Java ☕
+- **Frameworks**: Spring Boot 🌱
+- **Ferramentas**: Git, Docker, IntelliJ IDEA 🛠️
+- **Interesses**: Cibersegurança, APIs RESTful, Banco de Dados 🔒
 
-### Projeto 1: Gerenciador de Ingresso
+---
 
-O projeto "Criador de Ingressos para Festas" é um aplicativo web desenvolvido em Spring Boot que permite a criação de ingressos personalizados para eventos e festas. Com este aplicativo, os organizadores de eventos podem facilmente gerenciar a venda e distribuição de ingressos para seus eventos.
+## 🌟 Objetivos no GitHub
 
-### Projeto 2: Controle de Atrasos
+Estou aqui para:
+- Colaborar em projetos open source 🤝
+- Expandir minha rede de contatos (networking) 🌐
+- Compartilhar conhecimento e aprender com a comunidade 📚
+- Mostrar minhas habilidades e projetos para o mundo 🌍
 
-O projeto "Controle de Atrasos" é um aplicativo web desenvolvido em Spring Boot que ajuda a controlar e gerenciar os atrasos de funcionários em empresas. Com este aplicativo, os gestores de recursos humanos podem facilmente monitorar os atrasos dos funcionários e tomar medidas preventivas para evitar atrasos no futuro.
+---
 
-## Estatísticas
+## 📊 Estatísticas do GitHub
 
- <img align="center" height="170em" src="http://readme-stats-delta-sepia.vercel.app/api?username=angelogstec&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelogstec&show_icons=true&theme=radical&hide_border=true)](https://github.com/angelogstec)
 
-## Contato
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelogstec&layout=compact&theme=radical&hide_border=true)](https://github.com/angelogstec)
 
-- Instagram: [@angelostec](https://www.instagram.com/angelostec/)
-- E-mail: [angelogstec@gmail.com](mailto:angelogstec@gmail.com)
-- LinkedIn: [Ângelo Stec](https://www.linkedin.com/in/angelogstec/)
- 
-  ![Snake animation](https://github.com/angelogstec/angelogstec/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+### Vamos conversar? 💬
+
+Se você gostou do meu trabalho ou quer trocar ideias sobre desenvolvimento back-end, cibersegurança ou qualquer outro assunto, sinta-se à vontade para explorar meus repositórios ou entrar em contato! 😄
+
+---
+
+✨ **Obrigado por visitar o meu perfil!** ✨
